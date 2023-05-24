@@ -1,4 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder -B /Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder/cmake-build-debug

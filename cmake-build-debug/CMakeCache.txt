@@ -211,6 +211,15 @@ CMAKE_STRIP:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/Xcode
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+Project_BINARY_DIR:STATIC=/Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder/cmake-build-debug
+
+//Value Computed by CMake
+Project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Project_SOURCE_DIR:STATIC=/Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder
+
+//Value Computed by CMake
 prime_finder_BINARY_DIR:STATIC=/Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder/cmake-build-debug
 
 //Value Computed by CMake

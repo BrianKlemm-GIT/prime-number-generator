@@ -1,0 +1,3 @@
+/Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder/cmake-build-debug/CMakeFiles/prime_finder.dir
+/Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/brianklemm/SynologyDrive/Git/max_mac/prime_finder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

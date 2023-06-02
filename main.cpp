@@ -34,7 +34,6 @@ int main() {
     }
     file_in.close();
 
-    // Tell user how many primes are already saved
     std::cout << "There are " << primesFound.size() << " primes already saved." << std::endl;
 
     std::cout << "Enter how many primes you would like me to list." << std::endl;
@@ -58,15 +57,16 @@ int main() {
     for(int prime : primesFound) {
         file_out << prime << std::endl;
     }
-    file_out.flush(); // flush the buffer to make sure all data is written to the file
+    // flush the buffer to make sure all data is written to the file
+    file_out.flush();
     if (!file_out) {
         std::cerr << "Error writing to file\n";
         return 1;
     }
     file_out.close();
 
-    for(int i = 0; i < primes_requested; i++){
-        std::cout << primesFound[i] << ", ";
+    for(int j = 0; j < primes_requested; j++){
+        std::cout << primesFound[j] << ", ";
     }
 
     return 0;
